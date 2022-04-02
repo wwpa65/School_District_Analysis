@@ -11,7 +11,9 @@ The analysis should contain the following:
 2. Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
     - How is the district summary affected?
-        - 
+
+Reduced by a small amount (average score by ~ 0.1) or percentage (by ~ 0.2%)
+
     - How is the school summary affected?
     - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
     - How does replacing the ninth-grade scores affect the following:
