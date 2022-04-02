@@ -1,35 +1,5 @@
 # School_District_Analysis
 
-Deliverable 1: Replace ninth-grade reading and math scores
-Deliverable 2: Repeat the school district analysis
-Deliverable 3: A written report for the school district analysis (README.md)
-
-Deliverable 1 Requirements
-
-You will earn a perfect score for Deliverable 1 by completing all requirements below:
-
-- The loc method is used to select all the reading and math scores from the ninth grade at Thomas High School. Inside the loc method, the following are completed:
-
-  - A comparison operator is used to retrieve all the rows with Thomas High School in the "school_name" column of the student_data_df (10 pt).
-  - A comparison operator is used to retrieve all the rows with the ninth grade in the "grade" column of the student_data_df (10 pt).
-  - Logical and comparison operators are used to retrieve all the rows with the "reading_score" column for Thomas High School ninth graders from the student_data_df (10 pt).
-  - Logical and comparison operators are used to retrieve all the rows with the "math_score" column for Thomas High School ninth graders from the student_data_df (10 pt).
-  - The reading and math scores for the ninth graders in Thomas High school are replaced with NaNs (10 pt).
-
-Deliverable 2 Requirements
-
-You will earn a perfect score for Deliverable 2 by repeating the school district analysis and updating the following required metrics in the PyCitySchools_Challenge.ipynb file:
-
-- The district summary DataFrame (3 pt)
-- The school summary DataFrame (3 pt)
-- The top 5 performing schools, based on the overall passing rate (2 pt)
-- The bottom 5 performing schools, based on the overall passing rate (2 pt)
-- The average math score for each grade level from each school (3 pt)
-- The average reading score for each grade level from each school (3 pt)
-- The scores by school spending per student (3 pt)
-- The scores by school size (3 pt)
-- The scores by school type (3 pt)
-
 Deliverable 3 Instructions
 
 For this part of the Challenge, write a report that summarizes your updated analysis and compares it with the results from the module.
