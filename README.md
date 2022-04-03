@@ -16,7 +16,7 @@ Reading and math scores were removed from 9th graders at the THS, and the Figure
    
   #### Figure 1. Screenshot of notebook showing student data for NAN and a summary of dataframe
   
-  There were 461 ninth graders (39170 - 38709) at the THS whose math and reading scores were removed from the analysis. 
+  There were 461 ninth graders (39170 - 38709 = 461) at the THS whose math and reading scores were removed from the analysis. 
   
 ## _1. How is the district summary affected?_
 
@@ -115,7 +115,7 @@ Reading and math scores were removed from 9th graders at the THS, and the Figure
 #### Before replacement
 ![school-type-before](/resources/school-type-before.png)
  
-#### Before replacement
+#### After replacement
 ![school-type-after](/resources/school-type-after.png)
 
 #### Figure 7. Math and reading scores by grade for schools before (A, C) and after (B, D) replacing scores
@@ -128,7 +128,7 @@ In summary, math scores and reading scrores from a total of 461 students (9th gr
 1. Percentage passing math for Thomas High School was dropped by ~26%
 2. Percentage passing reading  reading for Thomas High School was dropped by ~27%
 3. Percentage passing math and reading for Thomas High School was dropped by ~26%
-4. After re-calculating the averages and passing percentages for 10th-12th graders, the numbers were increased again to ~90%. 
+4. After re-calculating and replacing passing percentages (maths, reading, and overall) for 10th-12th graders at Thomas High School, the numbers were increased again to % passing math: 93.19, % passing reading: 97.02, and % passing overall: 90.63) from % passing math: 66.91, % passing reading: 69.66, and % passing overall: 65.08)
 
 
 The link to the Notebook: [PyCitySchools_Challenge](/PyCitySchools_Challenge.ipynb)
