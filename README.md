@@ -24,21 +24,27 @@ Reading and math scores were removed from 9th graders at the THS, and the Figure
 
 
 ![District Summary Before](/resources/district-summary-before.png)
+
+![District Summary After](/resources/district_summary_after_repeating.png)
  
 
 ### Figure 2. District Summary Before and After Removing Grades
 
-    - How is the school summary affected?
+
+- How is the school summary affected?
+
+  - For Thomas High School, scores were dropped by ~0.05-0.06% and passing percentages were dropped by ~27% (See Figure 3A (before) and Figure 3B (after removing grades). This is because 9th graders at ths have no grades. After re-calculating 10th-12th graders for the THS, the percentages were increased again (Figure 3C) Scores were not affected for other schools. 
     
-    For Thomas High School, It dropped by ~0.05-0.06% for scores and passing percentages dropped by ~27% for passing scores. This is because 9th graders at ths have no grades. Scores were not affected for other schools. 
-    
+    ### 3A
   ![School Summary Before Repeating](/resources/school_summary_before-repeating.png)
   
-  ![School Summary Before Repeating](/resources/school_summary-after-removing-9thgr.png)
+   ### 3B
   
-  ![School Summary After_Recalculating-10th-12th](/school-summary-after-including_THS10th-12th.png)
+  ![School Summary After_Removing_9thGr](/resources/school_summary-after-removing-9thgr.png)
   
-  ### check figures again
+   ### 3C
+  ![School Summary After_Recalculating_THS-10TH-12TH](/resources/school-summary-after-including_THS10th-12th.png)
+  
     
     - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
    
