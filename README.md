@@ -54,15 +54,35 @@ Reading and math scores were removed from 9th graders at the THS, and the Figure
 - How does replacing the ninth-grade scores affect the following:
 
   - Math and reading scores by grade
+
+  All schools had a grade EXCEPT for THS 9th graders
+      
+  ![math-score-by-grade-before](/resources/math-scores-by-grade-before.png)
+  
+  ![math-score-by-grade-after](/resources/math-scores-by-grade-after.png)
+  
+  ![reading-score-by-grade-before](/resources/reading-scores-by-grade-before.png)
+  
+  ![reading-score-by-grade-after](/resources/reading-scores-by-grade-after.png)
   
   - Scores by school spending
       No change
+  ![spending-before](/resources/spending-before.png)
+  
+  ![spending-after](/resources/spending-after.png)
+      
       
   - Scores by school size
       Medium size schools changed (increased) by ~ 0.01 and decreased passing grades by ~0.01%
       
+      ![school-size-before](/resources/school-size-before.png)
+      ![school-size-after](/resources/sschool-size-after.png)
+      
   - Scores by school type
       Changed by ~ xx for scores and xx for passing
+      
+      ![school-type-before](/resources/school-type-before.png)
+      ![school-type-after](/resources/school-type-after.png)
       
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
