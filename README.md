@@ -77,29 +77,33 @@ Reading and math scores were removed from 9th graders at the THS, and the Figure
   ### Figure 4. Math and reading scores by grade for schools before (A, C) and after (B, D) replacing scores
   
   - **Scores by school spending**
-    - There was no effect on school spending 
+    - There was no effect on overall scores by school spending. However, there is a slight change in scores and percentages for Thomas High School.
   
   ### Before replacement
   ![spending-before](/resources/spending-before.png)
   
-  ### Before replacement
+  ### After replacement
   ![spending-after](/resources/spending-after.png)
       
       
   - **Scores by school size**
     - There was no effect on the scores by size
-      
+
+### Before replacement
 ![school-size-before](/resources/school-size-before.png)
 
+### Before replacement
 ![school-size-after](/resources/school-size-after.png)
 
       
   - Scores by school type
  
  Score by school type did not change before and after (the final scores), It may be probably because the scores were recalculcated using ONLY 10th-12th graders of THS.  
-      
+ 
+### Before replacement
  ![school-type-before](/resources/school-type-before.png)
  
+### Before replacement
  ![school-type-after](/resources/school-type-after.png)
       
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
