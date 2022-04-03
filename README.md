@@ -1,18 +1,21 @@
-# School_District_Analysis
-
-Deliverable 3 Instructions
+# Analysis of School District Data: Math and Reading Scores of Students
 
 For this part of the Challenge, write a report that summarizes your updated analysis and compares it with the results from the module.
 
-The analysis should contain the following:
+## Overview of the school district analysis
 
-1. Overview of the school district analysis: Explain the purpose of this analysis.
+We have analyzed math and reading scores for a school district that included 39170 students in 15 schools. We have calculated average math scores, average reading scores, passing math scores, passing reading scores, overall passing scores, and percentages of XX. A number of programming tools (for working with Pandas data analysis library and NumPy) were used that included data import, merging data frames and data series, conditionals, mathematical calculations, and indexing.   
+
+However, the school board had identified an academic dishonesty from the data, especially in the 9th graders of the Thomas High School (THS) and decided to drop all math and reading scores of 9th graders at the THS. The school district analysis was repeated to see how these changes affected the overall analysis. For this task, we have used .loc function in pandas to locate math and reading scores of 9th graders at the ths, and used np.nan method to remove grades.
+
+Software tools: Pandas, Git
 
 2. Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+Reading and math scores were removed from 9th graders at the THS, and the following data frame depicts that.
 
     - How is the district summary affected?
       
-      Reduced by a small amount (average score by ~ 0.1) or percentage (by ~ 0.2%)
+      - Reduced by a small amount (average score by ~ 0.1) or percentage (by ~ 0.2%)
 
     - How is the school summary affected?
 It dropped by ~0.05-0.06% foe scores and passing percentages dropped by ~27% for passing scores. This is because 9th graders at ths have no grades.
