@@ -21,10 +21,10 @@ Reading and math scores were removed from 9th graders at the THS, and the Figure
   
   - How is the district summary affected?
       - Reduced by a small amount (average score by ~ 0.1) or percentage (by ~ 0.2%). However, it was not sigficant to the whole number. See Figure 2 below.
-      
-   ![District Summary Before](/resources/district-summary-before.png)
-        
-   ![District Summary After Repeating](/resources/district_summary_after_repeating.png) 
+
+
+![District Summary Before](/resources/district-summary-before.png)
+ 
 
 ### Figure 2. District Summary Before and After Removing Grades
 
@@ -33,8 +33,10 @@ Reading and math scores were removed from 9th graders at the THS, and the Figure
     For Thomas High School, It dropped by ~0.05-0.06% for scores and passing percentages dropped by ~27% for passing scores. This is because 9th graders at ths have no grades. Scores were not affected for other schools. 
     
   ![School Summary Before Repeating](/resources/school_summary_before-repeating.png)
-    
-  ![School Summary After Removing_9thgr](/school_summary-after-removing-9thgr.png)
+  
+  ![School Summary Before Repeating](/resources/school_summary-after-removing-9thgr.png)
+  
+  ![School Summary After_Recalculating-10th-12th](/school-summary-after-including_THS10th-12th.png)
   
   ### check figures again
     
