@@ -108,10 +108,12 @@ Reading and math scores were removed from 9th graders at the THS, and the Figure
       
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
-1. Math and reading scores of 461 9th grade students at Thomas High Schoolwere removed from grading
-2. Percentage passing math for Thomas High School was dropped by ~26%
-3. Percentage passing reading  reading for Thomas High School was dropped by ~27%
-4. Percentage passing math and reading for Thomas High School was dropped by ~26%
+In summary, math scores and reading scrores from a total of 461 students (9th graders of the Thomas High School) were replaced with NaN. The average passing scores of Thomas High School was dropped by about 26%. 
+
+1. Percentage passing math for Thomas High School was dropped by ~26%
+2. Percentage passing reading  reading for Thomas High School was dropped by ~27%
+3. Percentage passing math and reading for Thomas High School was dropped by ~26%
+4. After re-calculating the averages and passing percentages for 10th-12th graders, the numbers were increased again to ~90%. 
 
 
 The link to the Notebook: [PyCitySchools_Challenge](/PyCitySchools_Challenge.ipynb)
