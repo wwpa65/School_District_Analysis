@@ -32,9 +32,9 @@ Reading and math scores were removed from 9th graders at the THS, and the Figure
     
     For Thomas High School, It dropped by ~0.05-0.06% for scores and passing percentages dropped by ~27% for passing scores. This is because 9th graders at ths have no grades. Scores were not affected for other schools. 
     
-  ![School Summary After Repeating](/resources/school_summary_before.png)
+  ![School Summary Before Repeating](/resources/school_summary_before-repeating.png)
     
-  ![School Summary After Repeating](/resources/school_summary-after.png)
+  ![School Summary After Removing_9thgr](/school_summary-after-removing-9thgr.png)
   
   ### check figures again
     
