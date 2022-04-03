@@ -11,16 +11,28 @@ The analysis should contain the following:
 2. Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
     - How is the district summary affected?
-
-Reduced by a small amount (average score by ~ 0.1) or percentage (by ~ 0.2%)
+      
+      Reduced by a small amount (average score by ~ 0.1) or percentage (by ~ 0.2%)
 
     - How is the school summary affected?
+It dropped by ~0.05-0.06% foe scores and passing percentages dropped by ~27% for passing scores. This is because 9th graders at ths have no grades.
+    1635	$1,043,130.00	$638.00	83.418349	83.848930	93.272171	97.308869	90.948012	$631-645
+    1635	$1,043,130.00	$638.00	83.350937	83.896082	66.911315	69.663609	65.076453
+    
     - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+    It increased.
+    
     - How does replacing the ninth-grade scores affect the following:
       - Math and reading scores by grade
+      
       - Scores by school spending
+      No change
+      
       - Scores by school size
+      Medium size schools changed (increased) by ~ 0.01 and decreased passing grades by ~0.01%
+      
       - Scores by school type
+      Changed by ~ xx for scores and xx for passing
 3. Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
 - Deliverable 3 Requirements
