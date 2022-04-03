@@ -19,20 +19,18 @@ Reading and math scores were removed from 9th graders at the THS, and the Figure
   
   There were 461 ninth graders (39170 - 38709) at the THS whose math and reading scores were removed from the analysis. 
   
-    - How is the district summary affected?
-      
-      - Reduced by a small amount (average score by ~ 0.1) or percentage (by ~ 0.2%) See Figure 2 below.
+  - How is the district summary affected?
+      - Reduced by a small amount (average score by ~ 0.1) or percentage (by ~ 0.2%). However, it was not sigficant to the whole number. See Figure 2 below.
       
    ![District Summary Before](/resources/district-summary-before.png)
         
    ![District Summary After Repeating](/resources/district_summary_after_repeating.png) 
-   
-   ### replace new figures
 
 ### Figure 2. District Summary Before and After Removing Grades
 
     - How is the school summary affected?
-It dropped by ~0.05-0.06% foe scores and passing percentages dropped by ~27% for passing scores. This is because 9th graders at ths have no grades.
+    
+    It dropped by ~0.05-0.06% foe scores and passing percentages dropped by ~27% for passing scores. This is because 9th graders at ths have no grades.
     
     - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
    
