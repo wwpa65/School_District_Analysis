@@ -6,24 +6,35 @@ For this part of the Challenge, write a report that summarizes your updated anal
 
 We have analyzed math and reading scores for a school district that included 39170 students in 15 schools. We have calculated average math scores, average reading scores, passing math scores, passing reading scores, overall passing scores, and percentages of XX. A number of programming tools (for working with Pandas data analysis library and NumPy) were used that included data import, merging data frames and data series, conditionals, mathematical calculations, and indexing.   
 
-However, the school board had identified an academic dishonesty from the data, especially in the 9th graders of the Thomas High School (THS) and decided to drop all math and reading scores of 9th graders at the THS. The school district analysis was repeated to see how these changes affected the overall analysis. For this task, we have used .loc function in pandas to locate math and reading scores of 9th graders at the ths, and used np.nan method to remove grades.
+However, the school board had found evidence of academic dishonesty from the data (specifically, reading and math grades for Thomas High School ninth graders appear to have been altered). . The school board wanted to want to uphold state-testing standards and decided to drop all math and reading scores of 9th graders at the THS while keeping other data intact. Therefore, the school district analysis was repeated to see how these changes affected the overall analysis. For this task, we have used .loc function in pandas to locate math and reading scores of 9th graders at the THS, and used np.nan method to remove grades.
 
 Software tools: Pandas, Git
 
 2. Results: Using bulleted lists and images of DataFrames as support, address the following questions.
-Reading and math scores were removed from 9th graders at the THS, and the following data frame depicts that.
+Reading and math scores were removed from 9th graders at the THS, and the Figure 1 below shows the removal of data (a portion is shown) of 9th graders at the THS.
 
-    - How is the district summary affected?
+  ![School DataFrame](/resources/school_data_after_removing_grades.png)
+   
+  ### Figure 1. Screenshot of Notebook showing Student Data for NAN and a Summary of Dataset
+  
+  There were 461 ninth graders (39170 - 38709) at the THS whose math and reading scores were removed from the analysis. 
+  
+  - How is the district summary affected?
+      - Reduced by a small amount (average score by ~ 0.1) or percentage (by ~ 0.2%). However, it was not sigficant to the whole number. See Figure 2 below.
       
-      - Reduced by a small amount (average score by ~ 0.1) or percentage (by ~ 0.2%)
+   ![District Summary Before](/resources/district-summary-before.png)
+        
+   ![District Summary After Repeating](/resources/district_summary_after_repeating.png) 
+
+### Figure 2. District Summary Before and After Removing Grades
 
     - How is the school summary affected?
-It dropped by ~0.05-0.06% foe scores and passing percentages dropped by ~27% for passing scores. This is because 9th graders at ths have no grades.
-    1635	$1,043,130.00	$638.00	83.418349	83.848930	93.272171	97.308869	90.948012	$631-645
-    1635	$1,043,130.00	$638.00	83.350937	83.896082	66.911315	69.663609	65.076453
+    
+    It dropped by ~0.05-0.06% foe scores and passing percentages dropped by ~27% for passing scores. This is because 9th graders at ths have no grades.
     
     - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-    It increased.
+   
+   It increased.
     
     - How does replacing the ninth-grade scores affect the following:
       - Math and reading scores by grade
@@ -78,3 +89,4 @@ Upload the following to your School_District_Analysis GitHub repository:
 - The Resources folder with the schools_complete.csv and students_complete.csv files.
 - An updated README.md that has your written analysis.
 
+The link to the Notebook: [PyCitySchools_Challenge](/PyCitySchools_Challenge.ipynb)
