@@ -75,14 +75,16 @@ Reading and math scores were removed from 9th graders at the THS, and the Figure
   - Scores by school size
       Medium size schools changed (increased) by ~ 0.01 and decreased passing grades by ~0.01%
       
-      ![school-size-before](/resources/school-size-before.png)
-      ![school-size-after](/resources/sschool-size-after.png)
+![school-size-before](/resources/school-size-before.png)
+![school-size-after](/resources/school-size-after.png)
+
       
   - Scores by school type
       Changed by ~ xx for scores and xx for passing
       
-      ![school-type-before](/resources/school-type-before.png)
-      ![school-type-after](/resources/school-type-after.png)
+ ![school-type-before](/resources/school-type-before.png)
+ 
+ ![school-type-after](/resources/school-type-after.png)
       
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
